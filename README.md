@@ -5,8 +5,8 @@
 ##### NOW
 
 - 🎓 I’m currently studying **Computer Science** at Deakin University
-- 💬 I’m looking to collaborate on **Open Source** and other projects
-- 🌱 Learning all about **Data Science**, **Machine Learning**, **Infrastructure**
+- 💬 I’m looking to collaborate on **Open Source**
+- 🌱 Learning all about **Data Science**, **Machine Learning** and **Infrastructure**
 
 ##### BIO
 
