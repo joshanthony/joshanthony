@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**joshanthony/joshanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer from Brisbane, Australia.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I’m currently studying **Computer Science** at Deakin University, Melbourne
+- 💬 I’m looking to collaborate on **Open Source** and other projects
+- 🌱 Learning all about **Data Science**, **Machine Learning**, **Infrastructure**
+
+##### BIO
+
+- 🏢 I'm currently working at **WP Runner**
+- ⚙️ Skills I have: `.cs`, `.py`, `.js`, `.php`, `.sql`, `.sh`
+- 📫 Reach me at josh (at) joshanthony.net
