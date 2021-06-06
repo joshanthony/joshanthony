@@ -11,5 +11,5 @@
 #### BIO
 
 - 🏢 Software developer at **WP Runner**
-- ⚙️ I work with C#, .NET, Python, Django, JavaScript, React, PHP, Laravel, MySQL, WordPress and more
+- ⚙️ I usually work with C#, .NET, Python, Django, JavaScript, React, PHP, Laravel, MySQL, WordPress and more
 - 📫 Reach me at josh (at) joshanthony.net
