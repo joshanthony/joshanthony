@@ -4,12 +4,12 @@
 
 #### NOW
 
-- 🎓 Final year **Computer Science** at Deakin University
 - 💬 Looking to collaborate on **Open Source** projects
 - 🌱 Learning all about **Data Science**, **Machine Learning** and **Infrastructure**
 
 #### BIO
 
 - 🏢 Software developer at **WP Runner**
+- 🎓 **Computer Science** at Deakin University
 - ⚙️ I work with C#, .NET, Python, Django, JavaScript, React, PHP, Laravel, MySQL, WordPress and more
 - 📫 Reach me at josh (at) joshanthony.net
