@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### I'm a full-stack software developer from Brisbane, Australia.
+#### I'm a full-stack software developer from Brisbane, Australia, building digital products with technologies such as C# .NET, JavaScript, Python and more.
 
 #### NOW
 
-- 💬 Looking to collaborate on **open source** projects
+- 💬 Looking to collaborate on **meaningful** projects
 - 🌱 Learning **data science**, **machine learning** and **infrastructure**
 
 #### BIO
