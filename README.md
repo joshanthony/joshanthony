@@ -10,7 +10,7 @@
 #### BIO
 
 - 🏢 Software developer at one of Australia's largest investment funds, serving 2+ million customers
-- 🚀 Co-founder at subscription website support business **Outora**
+- 🚀 Co-founded subscription website support business **Outora**
 - 🎓 **Bachelor of Computer Science** with distinction at Deakin University
 - ⚙️ I work with C# .NET, JavaScript, React, Node.js, Python, Django, Microsoft Azure and more
 - ☁️ Microsoft Azure certified
