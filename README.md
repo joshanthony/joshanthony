@@ -12,6 +12,6 @@
 - 🏢 Full stack developer at one of Australia's largest investment funds, serving 2+ million customers
 - 🚀 Co-founded subscription website support business **Outora**
 - 🎓 Bachelor of Computer Science with distinction at Deakin University
-- ☁️ Certified Microsoft Azure Developer Associate
+- ☁️ Microsoft Certified Azure Developer Associate
 - ⚙️ I work with C# .NET, JavaScript, React, Node.js, Python, Microsoft Azure and more
 - 📫 Reach me at josh (at) joshanthony.net
