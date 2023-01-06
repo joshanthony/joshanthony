@@ -4,14 +4,14 @@
 
 #### NOW
 
-- 💬 Always keen to discuss new projects and ideas
-- 🌱 Currently learning **data science**, **machine learning** and **infrastructure**
+- 💬 Open to discussing open source projects, ideas and new technologies
+- 🌱 Currently focused on learning infrastructure and machine learning
 
 #### BIO
 
 - 🏢 Full stack developer at one of Australia's largest investment funds, serving 2+ million customers
 - 🚀 Co-founded subscription website support business **Outora**
-- 🎓 **Bachelor of Computer Science** with distinction at Deakin University
+- 🎓 Bachelor of Computer Science with distinction at Deakin University
 - ☁️ Certified Microsoft Azure Developer Associate
-- ⚙️ Working with C# .NET, JavaScript, React, Node.js, Python, Microsoft Azure and more
+- ⚙️ I work with C# .NET, JavaScript, React, Node.js, Python, Microsoft Azure and more
 - 📫 Reach me at josh (at) joshanthony.net
