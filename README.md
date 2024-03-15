@@ -14,4 +14,4 @@
 - 🎓 Bachelor of Computer Science with distinction at Deakin University
 - ☁️ Microsoft Certified Azure Developer Associate
 - ⚙️ I work with C# .NET, JavaScript, React, Node.js, Python, Microsoft Azure and more
-- 📫 Reach me at josh (at) joshanthony.net
+- 📫 Reach me at josh (at) joshanthony.io
