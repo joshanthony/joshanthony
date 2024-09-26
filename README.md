@@ -4,7 +4,7 @@
 
 #### NOW
 
-- 🏢 Full-stack developer at one of Australia’s largest companies, building software products to help take care of over 2+ million customers
+- 🏢 Full-stack developer at one of Australia’s largest companies, building software products for 2+ million customers
 - 💬 Open to discussing open source projects, ideas and new technologies
 
 #### BIO
