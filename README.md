@@ -4,7 +4,7 @@ I’m a full-stack developer from Brisbane, Australia, passionate about building
 
 #### BIO
 
-- 🏢 Full-stack developer at one of Australia’s largest companies, building software products for 2+ million customers
+- 🏢 Full-stack developer at one of Australia’s largest companies, building software products for millions of customers
 - 💼 Previously - Technical consultant for 5+ years
 - 🚀 Previously - Co-founded Outora, a subscription website support business
 - ☁️ Microsoft Certified Azure Developer Associate
