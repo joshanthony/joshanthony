@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a full-stack developer from Brisbane, Australia, passionate about building scalable and efficient software systems that serve high-traffic platforms using C#, .NET, React, Python, Azure and more.
+I’m a full-stack developer from Brisbane, Australia, passionate about building scalable and efficient software systems that serve high-traffic applications using C#, .NET, React, Python, Azure and more.
 
 #### BIO
 
